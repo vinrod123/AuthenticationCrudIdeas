@@ -1,0 +1,2 @@
+# AutenticationCrudIdeas
+This project was developed with .Net technologies, using features such as Front-end in Xamarin and Back-end in ASP.NET MVC with WEB API. The system contains: Registration System; Authentication system; CRUD system; Local data storage system; External data storage system; The service was back-end is Restfull; The integration of back-end and front-end service, was based on Async Task; The application development is hybrid, being able to be used in the main platforms (iOS, Android, UWP). Patterns used (Mvvm in Xamarin, MVC in ASP.NET MVC)
